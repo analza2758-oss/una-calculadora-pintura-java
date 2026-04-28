@@ -71,7 +71,7 @@ Este projeto tem como finalidade praticar conceitos fundamentais de programaçã
 2. Execute o programa:
 
    ```bash
-   java CalculadoraPinturaSeuRA
+   java CalculadoraPintura
    ```
 
 ---
